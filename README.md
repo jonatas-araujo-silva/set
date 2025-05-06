@@ -1,6 +1,6 @@
 # 🃏 Set Game – SwiftUI Project
 
-This project is a SwiftUI-based implementation of the classic **Set** card game, designed to demonstrate modern Swift development practices, a clean MVVM architecture, and advanced UI techniques. It serves as a showcase of essential SwiftUI skills relevant for contemporary iOS development.
+This project is a SwiftUI-based implementation of the classic **Set** card game, designed to demonstrate modern Swift development practices, a clean MVVM architecture, and advanced UI techniques.
 
 ---
 
